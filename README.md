@@ -14,7 +14,7 @@ This project involved an in-depth exploration of property valuation optimization
 - Data Visualization
 
 
-## Date Created       khju8hi
+## Date Created
 August 29th, 2024
 
 
